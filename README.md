@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi I am Lekshmi
+Experienced Data Analyst with a proven track record in creating impactful Power BI dashboards and data visualizations😉,
+currently working at Zinemind technologies🤩
+
