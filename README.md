@@ -1,4 +1,4 @@
-## Hi there 👋
+##About me
 
 <!--
 **Lekshmi-515/Lekshmi-515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi I am Lekshmi
-Experienced Data Analyst with a proven track record in creating impactful Power BI dashboards and data visualizations😉 /n
+Experienced Data Analyst with a proven track record in creating impactful Power BI dashboards and data visualizations😉
 currently working at Zinemind technologies🤩
 
