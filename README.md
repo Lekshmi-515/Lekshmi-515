@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 # Hi I am Lekshmi
 Experienced Data Analyst with a proven track record in creating impactful Power BI dashboards and data visualizations😉
 currently working at Zinemind technologies🤩
+Focused on building end-to-end Power BI dashboards and transforming raw data into executive-ready insights. Proficient in DAX, Power Query, and EDA, with a strong ability to present findings to leadership and ensure clarity through well-documented, user-friendly reports.
 
